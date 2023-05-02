@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there, I'm Veronica, aka VeronicaTee 👋
+I'm a passionate and enthusiastic software engineer with experience in both front-end and back-end development. I'm always up for a new challenge and love solving problems. In my free time, I enjoy singing and traveling.
+
+🔭 I'm currently working on getting deep into Open Source contributions
+
+🌱 I'm currently learning Rust
+
+📫 Contact Me
+LinkedIn: https://www.linkedin.com/in/veronicatee
+Email: veronicatomilola@gmail.com
+Thanks for visiting my GitHub profile!
