@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **VeronicaTee/VeronicaTee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Veronica, aka VeronicaTee 👋
+### Hi there, I'm VeronicaTee 👋
 I'm a passionate and enthusiastic software engineer with experience in both front-end and back-end development. I'm always up for a new challenge and love solving problems. In my free time, I enjoy singing and traveling.
 
 🔭 I'm currently working on getting deep into Open Source contributions
